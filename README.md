@@ -24,7 +24,7 @@ and expressive UI motion. Built using **React** for the frontend and **Java + .N
 
 ### Clone the repository
 ```bash
-https://github.com/sanjyot002/Student-Assessment-and-Progress-Tracker.git
+https://github.com/sanjyot002/Student-Assessment-and-Performance-Tracker.git
 ```
 
 ### Frontend Setup
