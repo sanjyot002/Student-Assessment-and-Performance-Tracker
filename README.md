@@ -1,4 +1,4 @@
-# Student-Assessment-and-Progress-Tracker
+# Student-Assessment-and-Performance-Tracker
 
 A full-stack educational platform that empowers student-teacher engagement with smart assessments, real-time analytics, 
 and expressive UI motion. Built using **React** for the frontend and **Java + .NET** for the backend, CoreFour delivers a seamless, animated experience with secure data handling.
